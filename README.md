@@ -11,7 +11,7 @@ The datasets used for this project are "Global_YouTube_Statistics", found on htt
 
 ### **Questions and Answers**
 
-My MidBootcamp Project aims to answer the following questions based on exploration and data cleaning:
+My Final Bootcamp Project aims to answer the following questions based on exploratory data analysis (EDA) and modeling:
 
 1. YouTube Analytics: Which are the success factors of top YouTube channels and what sets them apart from the rest?
 
@@ -46,7 +46,9 @@ The project aims to reproduce a model able to predict future subscribers based o
 
 - Modified question: Model highest earnings. I try to model subscribres instead.
 
-- The data set does not have sufficient information as regards earnings that can be used to model earnings. 
+- The data set does not have sufficient information (granularity) as regards earnings that can be used to model earnings. 
+
+- It is worth to keep analyzing models and columns that can be predicted with accuracy given the present data.
 
 
 ### Running the Project
